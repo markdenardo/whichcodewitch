@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 50px;
+}
+
+a {
+  color: lightgreen; /* Sets the link color to blue */
+  text-decoration: underline; /* Adds underline to the link */
+  width: "200%";
+  height: "200%";
+}
+
+a:hover {
+  background-color: lightgreen; /* Selection highight color */
+  color: #000000; /* Optional colour change of text that is being selected */
+}
